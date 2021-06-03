@@ -1,10 +1,10 @@
 # Boston-home-price-predication
 
- This is a machine learning model made using python and flask which predicts the price of median value of a Boston home.
+ * This is a machine learning model made using python and flask which predicts the price of median value of a Boston home.
  
- Do ⭐ the repository, if it helped you in anyway.
+ * Do ⭐ the repository, if it helped you in anyway.
  
- If you want to try this out, head to Bostonhouseprice-env.eba-2bdhmgmi.us-east-2.elasticbeanstalk.com
+ * If you want to try this out, head to http://bostonhouseprice-env.eba-2bdhmgmi.us-east-2.elasticbeanstalk.com/
  
  # Dataset:
  
@@ -12,31 +12,31 @@
  
  # Dependencies:
  
- Python - 3.6
+ * Python - 3.6
  
- Scikit-Learn
+ * Scikit-Learn
  
- Pandas
+ * Pandas
  
- Numpy
+ * Numpy
  
- Matplotlib
+ * Matplotlib
  
- Seaborn
+ * Seaborn
  
- Pickle 
+ * Pickle 
  
- Flask
+ * Flask
  
  # Algorithms Used:
  
- Linear Regression
+ * Linear Regression
  
- Ridge Regression
+ * Ridge Regression
  
- Lasso Regression
+ * Lasso Regression
  
  # A glimpse of the web app:
  
-https://user-images.githubusercontent.com/76476273/120598549-01befe80-c464-11eb-8991-8a6b69ce4d8f.mp4
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/76476273/120598549-01befe80-c464-11eb-8991-8a6b69ce4d8f.mp4)
 
