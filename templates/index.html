@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Boston Data To Predict 'Price'</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 style="color: blanchedalmond; text-align: center;">Predict Price of Home in Boston Area</h1>
+    <h5  style="color: blanchedalmond; text-align: center;">Machine Learning Model</h5>
+    <div class="form">
+        <form action="/predict" method="POST">
+            <br/>
+            <h4>Proportion Of Non-Retail Business Acres Per Town</h4>
+            <input type="number" step="any" id="INDUS" name="INDUS" required="required">
+            <br/>
+            <h4>What Is The Nitric Oxides Concentration?<b>(In parts per 10 million)</b></h4>
+            <input type="number" step="any" id="NOX" name="NOX" required="required">
+            <br/>
+            <h4>Average Number Of Rooms Per Dwelling</h4>
+            <input type="number" step="any" id="RM" name="RM" required="required">
+            <br/>
+            <h4>Pupil-Teacher Ratio By Town</h4>
+            <input type="number" step="any" id="PTRATIO" name="PTRATIO" required="required">
+            <br/>
+            <h4>Lower Status Of The Population?<b>(In Percentage)</b></h4>
+            <input type="number" step="any" id="LSTAT" name="LSTAT" required="required">
+            <br/>
+
+            <input type="submit" value="Predict">
+        </form>
+    </div>
+</div>
+{% endblock %}
