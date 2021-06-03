@@ -38,5 +38,5 @@
  
  # A glimpse of the web app:
  
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/76476273/120598549-01befe80-c464-11eb-8991-8a6b69ce4d8f.mp4)
+https://user-images.githubusercontent.com/76476273/120598549-01befe80-c464-11eb-8991-8a6b69ce4d8f.mp4
 
