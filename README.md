@@ -3,9 +3,7 @@
  * This is a machine learning model made using python and flask which predicts the price of median value of a Boston home.
  
  * Do ⭐ the repository, if it helped you in anyway.
- 
- * If you want to try this out, head to http://bostonhouseprice-env.eba-2bdhmgmi.us-east-2.elasticbeanstalk.com/
- 
+  
  # Dataset:
  
  A Dataset derived from information collected by the U.S. Census Service concerning housing in the area of Boston Mass. This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass.
